@@ -48,7 +48,7 @@ Monitoring:
 8. Documentation
 TBA
 
-9. Project Timeline
+10. Project Timeline
 Week 1-2: Data collection setup.
 Week 3-4: Data cleaning and processing.
 Week 5-6: Setup database storage and implement analytics.
